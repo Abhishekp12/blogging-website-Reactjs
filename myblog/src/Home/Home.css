@@ -1,0 +1,35 @@
+.container-fluid{
+  padding:0 !important;
+  margin:0 !important;
+}
+.hero-sectionbg{
+  background-repeat: no-repeat;
+  background-position: center; 
+background-repeat: no-repeat; 
+background-size: cover;
+position:relative;
+left:0;
+right:0;
+}
+
+.hero-head{
+  padding:15%;
+
+    text-align: center;
+    margin: auto ;
+    color:white;
+   letter-spacing: 2px;
+   word-spacing: 5px;
+   font-weight: 800px;
+  
+    
+
+  }
+
+  .blog-section{
+    margin:10px;
+    padding:10px;
+    
+  }
+
+  

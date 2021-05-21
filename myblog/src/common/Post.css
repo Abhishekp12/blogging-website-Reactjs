@@ -1,0 +1,32 @@
+
+.content{
+    background-color:whitesmoke;
+   padding-bottom:5px;
+   margin-bottom:5px;
+}
+.sidegap{
+  padding:20px;
+}
+.sidegap h6{
+  color:black;
+}
+.card-content {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  
+    background-color: #edf0ff;
+    margin-top:25px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:20px;
+  }
+  
+  .ard-content:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .ccontainer-text{
+    padding: 2px 16px;
+  }
+  

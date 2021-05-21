@@ -1,0 +1,17 @@
+.formdiv{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+margin-top:10px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.create-head{
+    text-align:center;
+    font-weight: bold; 
+    color:white;
+
+}
+.cposition{
+    background-color:#f5f5f5;
+
+}

@@ -1,0 +1,13 @@
+img{
+    height: 40px;
+    width:40px;
+    border-radius: 25px;
+}
+
+.nav-link, .nav-item, a{
+    text-transform: capitalize;
+  
+    font-size:15px;
+    padding-right: 10px;
+    margin-right:10px;;
+}
